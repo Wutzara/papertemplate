@@ -9,6 +9,7 @@ paper. Credit for the paper-template goes to
 [latextemplates](http://www.latextemplates.com/template/journal-article)
 
 Sample markdownfile: 
+
     ---
     title: The great test of a pandoc latex template 
     subtitle: and a great journey of how pandoc works 
